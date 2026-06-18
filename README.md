@@ -10,7 +10,7 @@ This repository showcases my best projects, covering **model training**, **EDA**
 ## 🧠 Summary
 
 - 📍 Nairobi, Kenya  
-- 📧 rizak28rizak@gmail.com  
+- 📧 abdirizak@labsoneai.com 
 - 🔗 [LinkedIn](https://www.linkedin.com/in/subane-900146315/)  
 - 💻 [GitHub](https://github.com/Abdirizak786)
 
@@ -94,7 +94,7 @@ _Regenesys School of Technology, Nairobi_
 
 I’m actively seeking internship roles in AI/ML to work with startups and contribute to meaningful data-driven innovations.
 
-Reach out via [Email](mailto:rizak28rizak@gmail.com) or [LinkedIn](https://www.linkedin.com/in/subane-900146315/).
+Reach out via [Email](mailto:abdirizak@labsoneai.com) or [LinkedIn](https://www.linkedin.com/in/subane-900146315/).
 
 
 <!--
