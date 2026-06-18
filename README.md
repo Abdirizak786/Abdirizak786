@@ -1,113 +1,56 @@
-# 👨‍💻 Abdirizack Subane – Machine Learning & NLP Portfolio
+# 👋 Hi, I'm Abdirizack Subane
 
-Welcome to my machine learning and AI project portfolio!  
-I’m an entry-level **ML/NLP enthusiast** with a Postgraduate Diploma in Data Science from **Regenesys School of Technology** and hands-on experience building real-world ML apps for **healthcare, finance, and education** domains.
+Founder of **LabsOneAI**, an AI & Data Intelligence company building practical AI-powered automation, analytics, and NLP solutions for African businesses.
 
-This repository showcases my best projects, covering **model training**, **EDA**, **deployment (Flask/Streamlit)**, and **NLP pipelines**.
+## 🚀 About LabsOneAI
 
----
+**LabsOneAI** helps organizations automate business processes, improve decision-making, and deliver better customer experiences through practical artificial intelligence.
 
-## 🧠 Summary
+We develop solutions including:
 
-- 📍 Nairobi, Kenya  
-- 📧 abdirizak@labsoneai.com 
-- 🔗 [LinkedIn](https://www.linkedin.com/in/subane-900146315/)  
-- 💻 [GitHub](https://github.com/Abdirizak786)
+* 🤖 AI Customer Support & Chatbots
+* 📄 Intelligent Document & Invoice Extraction
+* 🏘️ Real Estate AI Assistants
+* 🏥 Healthcare Prediction Systems
+* 💰 Financial Analytics & Fraud Detection
+* 📊 Business Intelligence & Data Analytics
+* 🌍 Language Technology Tools for Multilingual African Languages
 
----
+Our mission is to build AI solutions that solve real business challenges across Africa through intelligent automation and data-driven insights.
 
-## 🛠️ Skills
+## 🛠️ Tech Stack
 
-- **Languages**: Python, R, SQL, HTML, CSS  
-- **ML Frameworks**: Scikit-learn, TensorFlow, Keras  
-- **Deployment**: Flask, Streamlit, AWS EC2/S3  
-- **Visualization**: Tableau, Power BI, Matplotlib, Seaborn  
-- **Tools**: MongoDB, MySQL, GitHub, Jupyter, OpenCV, NLTK  
-- **NLP**: Sentiment analysis, text classification, TF-IDF, embeddings  
+**Languages**
 
----
+* Python
+* SQL
+* JavaScript
 
-## 🧪 Featured Projects
+**AI & Machine Learning**
 
-### 1. 🚢 [Titanic Survival Prediction App](https://github.com/Abdirizak786/titanic_model)
-- Logistic Regression model to predict passenger survival.
-- Includes EDA, feature engineering, and deployment with Streamlit.
-- 📊 90% accuracy | 🌐 Local web app
+* OpenAI API
+* TensorFlow
+* Scikit-learn
+* NLTK
+* OpenCV
 
----
+**Web Development**
 
-### 2. 🏠 House Price Prediction
-- Linear Regression model built with Scikit-learn.
-- 92% accuracy using real-world housing data.
-- Complete with preprocessing, feature selection, evaluation.
+* FastAPI
+* Flask
+* Streamlit
+* HTML
+* CSS
 
----
+**Data & Analytics**
 
-### 3. 💬 Sentiment Analysis on Customer Reviews
-- NLP project using NLTK and TF-IDF vectorization.
-- Built classification model for positive/negative reviews.
-- Use case in e-commerce and feedback systems.
+* Power BI
+* Tableau
+* MySQL
+* MongoDB
 
----
+## 🌍 Vision
 
-### 4. 🧮 Diabetes Prediction
-- Classification model using logistic regression on Pima dataset.
-- Showcases healthcare use-case in early disease prediction.
+To become Africa's leading AI and data intelligence company, empowering businesses with practical, scalable, and responsible artificial intelligence.
 
----
-
-### 5. 🧾 Resume Parser using NLP
-- Built a resume classification and parser using Spacy.
-- Extracted Name, Skills, and Education from raw resumes.
-
----
-
-## 🏅 Achievements
-
-- ✅ Reduced customer churn by 20% with classification model.
-- 🏠 Achieved 92% accuracy in house price prediction.
-- 📊 Improved data visualization performance by 30% in Tableau.
-
----
-
-## 📚 Education
-
-**Postgraduate Diploma in Data Science**  
-_Regenesys School of Technology, Nairobi_  
-2023 – 2025  
-- Machine Learning (Regression, Classification, Clustering)  
-- NLP (TF-IDF, Text Classification, Chatbot Basics)  
-- Visualization with Tableau and Power BI  
-- Projects using Flask, Streamlit, MongoDB, Python
-
----
-
-## 🌱 Currently Learning
-
-- MLOps workflows
-- LangChain and LLM applications
-- TensorFlow Advanced Models
-
----
-
-## 🤝 Let’s Collaborate
-
-I’m actively seeking internship roles in AI/ML to work with startups and contribute to meaningful data-driven innovations.
-
-Reach out via [Email](mailto:abdirizak@labsoneai.com) or [LinkedIn](https://www.linkedin.com/in/subane-900146315/).
-
-
-<!--
-**Abdirizak786/Abdirizak786** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+> **AI that works for African businesses.**
